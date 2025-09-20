@@ -1,0 +1,2 @@
+A simple example of the Faceted Builder Pattern in C#. 
+This project demonstrates how to construct an object (Person) step by step using a fluent API, where different builders handle two different aspects (name and age).
